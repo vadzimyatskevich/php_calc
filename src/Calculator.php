@@ -3,7 +3,7 @@
 /**
  * Description of Calculator
  * based on http://stackoverflow.com/questions/928563/evaluating-a-string-of-simple-mathematical-expressions
- * @author vadzim
+ * @author vadzim yatskevich
  */
 class Calculator {
     private $formula;
